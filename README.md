@@ -26,4 +26,4 @@ immutable.js의 사용.
 
 2020-0209
 
-자바스크립트-prototype, closure.
+자바스크립트-prototype, closure
