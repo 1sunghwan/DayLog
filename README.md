@@ -81,3 +81,7 @@ prop-types의 사용법.
 
 -이스케이프 처리, 정규표현식.
 
+-git config core.autocrlf false|true (LF will be replaced by CRLF in git 문제에 대한 일시적인 해결...)
+
+
+
