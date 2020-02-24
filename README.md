@@ -97,15 +97,14 @@ prop-types의 사용법.
 2.문자열 내의 문자갯수를 반환한다. String 객체는 length 프로퍼티를 소유하고 있으므로 유사배열 객체.
 3.문자열은 변경불가능한 원시값이기 때문에 String 객체의 모든 메소드는 언제나 새로운 문자열을 반환함.
 (String.prototype.(charAt(index), concat(str1[,str2,...,strN]), indexOf(searchString[, fromIndex]), replace(searchValue, replacer), split([separator[, limit]]), substring(start[, end]), slice(start: number, end: number),toLowerCase(), toUpperCase(), trim(), repeat(count: number), includes(searchString: string, position: number))
-
+-자바스크립트 
+[*poiemaWeb]
 
 2020-0223
 -자바스크립트 배열, 배열고차함수  
 
--자바스크립트 
-[*poiemaWeb]
-
-▷나름 하루 공부한것들을 정리해서 써놓는다고 했지만, 너무 나만 편하게 써놓은것 같다..정리를 좀더 일목요연하게 하도록 해야겠다!
+2020-0224
+-Sass
 
 
 
