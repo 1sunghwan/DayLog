@@ -6,4 +6,8 @@
 
 ### ForEach
 
+### Include
+
+### Reverse
+
 ### Reduce
