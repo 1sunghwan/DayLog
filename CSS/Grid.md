@@ -17,3 +17,9 @@
 ### minmax
 
 ### max(and min)-content 
+
+### auto-fit, auto-fill
+
+### justify-content, align-content
+
+### justify-items, align-items
