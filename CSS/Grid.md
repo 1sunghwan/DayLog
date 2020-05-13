@@ -20,6 +20,8 @@
 
 ### auto-fit, auto-fill
 
-### justify-content, align-content
+### align-content, align-items, align-self, 
 
-### justify-items, align-items
+### justify-content, justify-items, justify-self
+
+### place-content, place-items
